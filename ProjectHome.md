@@ -1,0 +1,2 @@
+This is a small API that eases use of the Calendar API to allow a user to work with the Calendar API. It allows you to set up times in your calendar that are availabel for booking and find booked and unbooked appointment times.
+This API works even a the non default Google calendar. It also allows multiple bookings per time slot.
